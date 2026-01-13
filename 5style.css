@@ -97,6 +97,7 @@ margin: 0 1rem;
 
 .maincontent-img img{
     width: 95%;
+    border-radius: 10px;
 }
 
 .content-info{
@@ -129,6 +130,7 @@ margin: 0 1rem;
 
 .content-item img{
     width: 100%;
+    border-radius: 10px;
 }
 
 .content-item h4{
